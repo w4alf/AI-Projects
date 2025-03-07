@@ -1,0 +1,1024 @@
+﻿[email failed] (#AUTH005) Too many bad auth attempts., Friday, Mar 07, 2025 17:03:47
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 17:01:05
+[admin login] from source 192.168.1.36, Friday, Mar 07, 2025 16:43:59
+[DHCP IP: (192.168.1.27)] to MAC address 98:22:6E:D5:7D:DF, Friday, Mar 07, 2025 16:43:41
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 16:38:07
+[DoS attack: RST Scan] from source 45.57.120.190,port 443 Friday, Mar 07, 2025 16:37:09
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 16:36:06
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 16:24:36
+[DoS attack: RST Scan] from source 35.212.56.18,port 443 Friday, Mar 07, 2025 16:24:34
+[DHCP IP: (192.168.1.36)] to MAC address A8:1D:16:7E:E0:91, Friday, Mar 07, 2025 16:21:18
+[DHCP IP: (192.168.1.5)] to MAC address B8:06:0D:A8:F4:A7, Friday, Mar 07, 2025 16:10:54
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 16:01:27
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 16:01:14
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 16:00:49
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 15:58:57
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 15:50:44
+[DHCP IP: (192.168.1.23)] to MAC address F8:A2:D6:1B:78:54, Friday, Mar 07, 2025 15:43:20
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 15:39:18
+[DHCP IP: (192.168.1.37)] to MAC address C8:7F:54:5C:68:9C, Friday, Mar 07, 2025 15:36:00
+[DHCP IP: (192.168.1.28)] to MAC address 50:5A:65:AD:47:BB, Friday, Mar 07, 2025 15:35:57
+[DHCP IP: (192.168.1.33)] to MAC address AE:B4:15:76:36:44, Friday, Mar 07, 2025 15:31:44
+[DHCP IP: (192.168.1.24)] to MAC address 3A:D6:F9:C8:82:92, Friday, Mar 07, 2025 15:29:44
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 15:16:27
+[DoS attack: snmpQueryDrop] from source 142.93.60.243,port 48890 Friday, Mar 07, 2025 15:12:32
+[DoS attack: RST Scan] from source 35.212.56.18,port 443 Friday, Mar 07, 2025 15:12:00
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 15:00:49
+[DHCP IP: (192.168.1.58)] to MAC address D2:4F:EB:F9:BA:06, Friday, Mar 07, 2025 15:00:21
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 14:49:45
+[DHCP IP: (192.168.1.56)] to MAC address 7E:3A:57:77:3E:E4, Friday, Mar 07, 2025 14:44:33
+[DHCP IP: (192.168.1.56)] to MAC address 7E:3A:57:77:3E:E4, Friday, Mar 07, 2025 14:43:30
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 14:30:46
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 14:26:27
+[DHCP IP: (192.168.1.3)] to MAC address F4:B8:98:21:91:6A, Friday, Mar 07, 2025 14:24:06
+[DHCP IP: (192.168.1.4)] to MAC address 6C:79:B8:20:68:64, Friday, Mar 07, 2025 14:24:03
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 14:21:06
+[DoS attack: RST Scan] from source 35.212.56.18,port 443 Friday, Mar 07, 2025 14:15:30
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 14:13:36
+[DoS attack: RST Scan] from source 45.57.40.1,port 443 Friday, Mar 07, 2025 14:09:56
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 14:00:52
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 13:56:28
+[DoS attack: snmpQueryDrop] from source 141.98.11.88,port 43397 Friday, Mar 07, 2025 13:44:19
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 13:24:23
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 13:22:11
+[DHCP IP: (192.168.1.14)] to MAC address DC:03:98:86:64:16, Friday, Mar 07, 2025 13:19:49
+[DoS attack: RST Scan] from source 35.212.56.18,port 443 Friday, Mar 07, 2025 13:01:47
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 13:00:50
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 12:53:28
+[DoS attack: snmpQueryDrop] from source 154.213.200.14,port 22305 Friday, Mar 07, 2025 12:43:59
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 12:30:36
+[DoS attack: RST Scan] from source 35.212.56.18,port 443 Friday, Mar 07, 2025 12:19:57
+[DHCP IP: (192.168.1.26)] to MAC address DC:97:58:95:BD:95, Friday, Mar 07, 2025 12:16:43
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 12:13:38
+[DoS attack: snmpQueryDrop] from source 205.210.31.229,port 55720 Friday, Mar 07, 2025 12:10:58
+[DHCP IP: (192.168.1.45)] to MAC address 40:F8:DF:25:EE:AB, Friday, Mar 07, 2025 12:01:28
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 12:00:51
+[DoS attack: Fraggle Attack] from source 97.88.130.1,port 67 Friday, Mar 07, 2025 11:47:16
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Friday, Mar 07, 2025 11:30:40
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 11:22:34
+[DoS attack: RST Scan] from source 35.212.56.18,port 443 Friday, Mar 07, 2025 11:14:29
+[DHCP IP: (192.168.1.17)] to MAC address 4C:53:FD:32:1A:F1, Friday, Mar 07, 2025 11:11:15
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 11:00:51
+[DHCP IP: (192.168.1.2)] to MAC address 0C:AE:7D:C0:D7:C3, Friday, Mar 07, 2025 10:44:03
+[DoS attack: snmpQueryDrop] from source 206.168.34.165,port 53635 Friday, Mar 07, 2025 10:41:24
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 10:37:56
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Friday, Mar 07, 2025 10:34:40
+[DoS attack: ACK Scan] from source 52.123.128.14,port 443 Friday, Mar 07, 2025 10:33:45
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 10:25:50
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 10:24:23
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 10:15:42
+[DoS attack: snmpQueryDrop] from source 198.235.24.195,port 56311 Friday, Mar 07, 2025 10:12:14
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 10:01:00
+[DHCP IP: (192.168.1.15)] to MAC address F0:F0:A4:7B:F6:F9, Friday, Mar 07, 2025 09:59:43
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 09:56:32
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 09:51:08
+[DoS attack: ACK Scan] from source 104.129.196.50,port 443 Friday, Mar 07, 2025 09:47:34
+[DHCP IP: (192.168.1.16)] to MAC address F4:03:2A:5C:EC:19, Friday, Mar 07, 2025 09:46:17
+[DHCP IP: (192.168.1.12)] to MAC address 08:6A:E5:19:70:5A, Friday, Mar 07, 2025 09:46:06
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 09:41:02
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 09:32:36
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 09:27:44
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 09:22:43
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 09:17:51
+[DHCP IP: (192.168.1.8)] to MAC address B4:B0:24:63:70:16, Friday, Mar 07, 2025 09:14:52
+[DHCP IP: (192.168.1.10)] to MAC address B4:B0:24:4B:67:A2, Friday, Mar 07, 2025 09:14:51
+[DHCP IP: (192.168.1.7)] to MAC address 54:AF:97:A0:F0:62, Friday, Mar 07, 2025 09:14:48
+[DHCP IP: (192.168.1.11)] to MAC address 28:87:BA:2F:4A:55, Friday, Mar 07, 2025 09:14:48
+[DHCP IP: (192.168.1.13)] to MAC address 54:AF:97:08:D8:2E, Friday, Mar 07, 2025 09:14:33
+[DoS attack: Fraggle Attack] from source 30.51.0.1,port 67 Friday, Mar 07, 2025 09:07:59
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 09:00:52
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 08:54:47
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 08:41:08
+[DoS attack: ACK Scan] from source 104.26.13.205,port 443 Friday, Mar 07, 2025 08:19:26
+[DHCP IP: (192.168.1.48)] to MAC address F0:B6:1E:8C:21:D4, Friday, Mar 07, 2025 08:10:49
+[DHCP IP: (192.168.1.33)] to MAC address AE:B4:15:76:36:44, Friday, Mar 07, 2025 08:08:50
+[DHCP IP: (192.168.1.33)] to MAC address AE:B4:15:76:36:44, Friday, Mar 07, 2025 08:08:49
+[DHCP IP: (192.168.1.24)] to MAC address 3A:D6:F9:C8:82:92, Friday, Mar 07, 2025 08:08:25
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 08:03:22
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 08:01:04
+[DHCP IP: (192.168.1.56)] to MAC address 7E:3A:57:77:3E:E4, Friday, Mar 07, 2025 08:00:05
+[Time synchronized with NTP server] Friday, Mar 07, 2025 07:51:01
+[DHCP IP: (192.168.1.22)] to MAC address 9C:76:13:BE:CE:3D, Friday, Mar 07, 2025 07:39:45
+[DHCP IP: (192.168.1.18)] to MAC address F0:35:75:3E:05:21, Friday, Mar 07, 2025 07:34:45
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Friday, Mar 07, 2025 07:31:27
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 07:28:58
+[DHCP IP: (192.168.1.6)] to MAC address BC:03:58:CE:5C:75, Friday, Mar 07, 2025 07:28:11
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 07:24:22
+[DoS attack: RST Scan] from source 198.38.108.145,port 443 Friday, Mar 07, 2025 07:16:36
+[DoS attack: Fraggle Attack] from source 30.51.0.1,port 67 Friday, Mar 07, 2025 07:14:49
+[DHCP IP: (192.168.1.31)] to MAC address 7A:45:F1:97:35:F9, Friday, Mar 07, 2025 07:09:40
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 07:00:52
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 07:00:51
+[DHCP IP: (192.168.1.19)] to MAC address 46:7A:8F:0D:88:BF, Friday, Mar 07, 2025 06:52:43
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Friday, Mar 07, 2025 06:45:39
+[DoS attack: snmpQueryDrop] from source 154.213.200.14,port 13571 Friday, Mar 07, 2025 06:36:07
+[DoS attack: snmpQueryDrop] from source 141.98.11.88,port 50022 Friday, Mar 07, 2025 06:33:21
+[DHCP IP: (192.168.1.23)] to MAC address F8:A2:D6:1B:78:54, Friday, Mar 07, 2025 06:29:33
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 06:28:24
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Friday, Mar 07, 2025 06:23:02
+[DHCP IP: (192.168.1.33)] to MAC address AE:B4:15:76:36:44, Friday, Mar 07, 2025 06:17:29
+[DHCP IP: (192.168.1.24)] to MAC address 3A:D6:F9:C8:82:92, Friday, Mar 07, 2025 06:14:40
+[DoS attack: RST Scan] from source 17.248.207.66,port 443 Friday, Mar 07, 2025 06:13:33
+[DHCP IP: (192.168.1.58)] to MAC address D2:4F:EB:F9:BA:06, Friday, Mar 07, 2025 06:13:28
+[DHCP IP: (192.168.1.35)] to MAC address DE:9D:9E:E3:EF:7A, Friday, Mar 07, 2025 06:13:05
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Friday, Mar 07, 2025 06:11:22
+[DHCP IP: (192.168.1.9)] to MAC address 2C:AB:33:16:07:61, Friday, Mar 07, 2025 06:10:43
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 06:01:03
+[DHCP IP: (192.168.1.21)] to MAC address F8:28:19:3D:C0:7A, Friday, Mar 07, 2025 05:59:57
+[DoS attack: ACK Scan] from source 52.123.129.14,port 443 Friday, Mar 07, 2025 05:48:45
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 05:30:58
+[DHCP IP: (192.168.1.20)] to MAC address C4:98:5C:CF:8A:61, Friday, Mar 07, 2025 05:22:08
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 05:00:50
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 04:49:28
+[DHCP IP: (192.168.1.27)] to MAC address 98:22:6E:D5:7D:DF, Friday, Mar 07, 2025 04:43:41
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 04:24:22
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 04:17:17
+[DHCP IP: (192.168.1.5)] to MAC address B8:06:0D:A8:F4:A7, Friday, Mar 07, 2025 04:10:53
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 04:00:51
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 03:50:53
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 03:39:38
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Friday, Mar 07, 2025 03:36:33
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 03:21:19
+[DoS attack: snmpQueryDrop] from source 167.94.138.144,port 23722 Friday, Mar 07, 2025 03:18:50
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 03:17:12
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 03:17:08
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 03:16:09
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 03:11:13
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 03:00:51
+[DoS attack: Fraggle Attack] from source 66.191.94.1,port 67 Friday, Mar 07, 2025 02:48:44
+[DoS attack: Fraggle Attack] from source 66.191.94.1,port 67 Friday, Mar 07, 2025 02:27:20
+[DHCP IP: (192.168.1.3)] to MAC address F4:B8:98:21:91:6A, Friday, Mar 07, 2025 02:24:06
+[DHCP IP: (192.168.1.4)] to MAC address 6C:79:B8:20:68:64, Friday, Mar 07, 2025 02:24:03
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 02:21:08
+[DoS attack: Fraggle Attack] from source 66.191.94.1,port 67 Friday, Mar 07, 2025 02:16:33
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Friday, Mar 07, 2025 02:10:26
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 02:00:51
+[DoS attack: snmpQueryDrop] from source 64.62.197.175,port 6129 Friday, Mar 07, 2025 01:52:53
+[DoS attack: ACK Scan] from source 52.123.128.14,port 443 Friday, Mar 07, 2025 01:48:43
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 01:24:23
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 01:22:53
+[DHCP IP: (192.168.1.14)] to MAC address DC:03:98:86:64:16, Friday, Mar 07, 2025 01:19:49
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 01:00:53
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 00:57:53
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 00:54:58
+[DoS attack: ACK Scan] from source 52.123.129.14,port 443 Friday, Mar 07, 2025 00:48:45
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 00:45:14
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 00:43:57
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Friday, Mar 07, 2025 00:28:22
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Friday, Mar 07, 2025 00:00:51
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 23:54:38
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41068 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35524 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46546 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43600 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35468 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50044 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57778 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43038 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53332 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48264 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36356 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 40898 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56106 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44844 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37180 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50386 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48190 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54208 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50580 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52688 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41808 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46500 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41596 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53432 Thursday, Mar 06, 2025 23:43:28
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52310 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35442 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58418 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53986 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60172 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 55340 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56386 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52124 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33974 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60220 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 47088 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 42396 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44686 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43866 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33666 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 47542 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35632 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53890 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44758 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58620 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53564 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41688 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57840 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 40638 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50236 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44144 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58818 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52660 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35888 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 49282 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 49174 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43994 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37416 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56986 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39976 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57414 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37440 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43472 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36026 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41406 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 45386 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57484 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56644 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39528 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51098 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 34608 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54546 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51260 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 40842 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51112 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43508 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41462 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60232 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 34438 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57232 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41888 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36840 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 40852 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52768 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 45618 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54170 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33824 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58290 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 42532 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41338 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46804 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46546 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41748 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36894 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38900 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60964 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38544 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53346 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39324 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 45228 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48890 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56234 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58604 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39876 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50126 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37266 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38488 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57026 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 42502 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52446 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35724 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37304 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48160 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43356 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36494 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41794 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33556 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 45346 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 34910 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60376 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35822 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38320 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51642 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60864 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 55868 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39762 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 59922 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54344 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48298 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56462 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46960 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37954 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38708 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48780 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 42008 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43758 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38296 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51168 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36978 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44688 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33592 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38052 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 55348 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41024 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39492 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38476 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41144 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 34802 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41138 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36080 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37398 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 49370 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33680 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 55404 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33040 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50044 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43600 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57778 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35468 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41068 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46546 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35524 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44844 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56106 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 40898 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48264 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36356 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43038 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53332 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41596 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41808 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37180 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53432 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46500 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50580 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52688 Thursday, Mar 06, 2025 23:43:27
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54208 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50386 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48190 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52124 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58418 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56386 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33974 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60220 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 55340 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35442 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52310 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60172 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53986 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35632 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 47542 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33666 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43866 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44686 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 42396 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 47088 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44758 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53890 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58818 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44144 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50236 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 40638 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57840 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53564 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58620 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41688 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37416 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43994 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 49282 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 49174 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52660 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35888 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36026 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37440 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41406 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57414 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43472 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39976 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56986 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43508 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60232 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41462 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51112 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57484 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51260 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56644 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54546 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 34608 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51098 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 45386 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39528 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 45618 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36894 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 40852 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 42532 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58290 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54170 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38900 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41748 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46546 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41338 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36840 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46804 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 34438 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41888 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57232 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33824 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52768 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56234 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 42502 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50126 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60964 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58604 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48890 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52446 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57026 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38488 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39324 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37266 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38544 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 45228 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39876 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53346 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 45346 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43356 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 34910 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60376 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35724 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38320 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35822 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37304 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41794 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33556 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36494 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48160 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46960 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54344 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 59922 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 55868 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38708 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60864 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39762 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37954 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51642 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56462 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48298 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36978 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39492 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48780 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 55348 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44688 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38052 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51168 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 42008 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38296 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41024 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43758 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33592 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33680 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37398 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 49370 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 55404 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33040 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41144 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38476 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 34802 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36080 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41138 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41068 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35524 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46546 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35468 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43600 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57778 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50044 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43038 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53332 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48264 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36356 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56106 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 40898 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44844 Thursday, Mar 06, 2025 23:43:26
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48190 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37180 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54208 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50580 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50386 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52688 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46500 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41808 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41596 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53432 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60172 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35442 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52310 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58418 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53986 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 55340 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52124 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56386 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33974 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60220 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44686 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 47088 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 42396 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43866 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33666 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 47542 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35632 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44758 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53890 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58620 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53564 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57840 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41688 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 40638 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50236 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44144 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58818 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35888 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52660 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 49282 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 49174 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43994 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37416 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56986 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39976 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43472 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57414 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37440 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36026 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41406 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39528 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 45386 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51098 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 34608 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54546 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51260 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 40842 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56644 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57484 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51112 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43508 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41462 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60232 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52768 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33824 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41888 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58290 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57232 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54170 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 34438 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 42532 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41338 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46804 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36840 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 45618 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 40852 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46546 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36894 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41748 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38900 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53346 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39876 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38544 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 45228 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50126 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48890 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60964 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37266 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39324 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56234 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58604 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38488 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57026 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 42502 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52446 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48160 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36494 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41794 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33556 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35724 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43356 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37304 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 45346 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60376 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 34910 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35822 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38320 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48298 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51642 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 55868 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56462 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37954 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 59922 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39762 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60864 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54344 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46960 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38708 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43758 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38296 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48780 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 42008 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33592 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41024 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51168 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44688 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36978 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38052 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 55348 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39492 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41138 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 34802 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36080 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 38476 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41144 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 49370 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37398 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33680 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 55404 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33040 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50044 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57778 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43600 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35468 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46546 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41068 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35524 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44844 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56106 Thursday, Mar 06, 2025 23:43:25
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 40898 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48264 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36356 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43038 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53332 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41596 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53432 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41808 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46500 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52688 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50580 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37180 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54208 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50386 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48190 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33974 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60220 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52124 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56386 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58418 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 55340 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35442 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60172 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52310 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53986 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35632 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 47542 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 33666 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43866 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 42396 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44686 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 47088 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44758 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53890 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58818 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 44144 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50236 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 40638 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57840 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 53564 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58620 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41688 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37416 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43994 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 49174 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 49282 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 52660 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 35888 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41406 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36026 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37440 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 43472 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57414 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39976 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 56986 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51260 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 40842 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54546 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 34608 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 51098 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 45386 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 45618 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 36840 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 41338 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 46804 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 42532 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 34438 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 58290 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 54170 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 57232 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 39324 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 37266 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 60964 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 50126 Thursday, Mar 06, 2025 23:43:24
+[DoS attack: TCP SYN Flood] from source 18.118.100.31,port 48890 Thursday, Mar 06, 2025 23:43:24
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 23:43:21
+[DoS attack: snmpQueryDrop] from source 154.213.200.14,port 58997 Thursday, Mar 06, 2025 23:39:26
+[DoS attack: Fraggle Attack] from source 66.191.94.1,port 67 Thursday, Mar 06, 2025 23:38:17
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 23:35:14
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 23:30:48
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Thursday, Mar 06, 2025 23:11:09
+[DoS attack: TCP SYN Flood] from source 138.75.111.37,port 64378 Thursday, Mar 06, 2025 23:08:23
+[DoS attack: TCP SYN Flood] from source 138.75.111.37,port 64378 Thursday, Mar 06, 2025 23:08:22
+[DoS attack: TCP SYN Flood] from source 138.75.111.37,port 64378 Thursday, Mar 06, 2025 23:08:19
+[DoS attack: TCP SYN Flood] from source 138.75.111.37,port 64378 Thursday, Mar 06, 2025 23:08:18
+[DoS attack: TCP SYN Flood] from source 138.75.111.37,port 64378 Thursday, Mar 06, 2025 23:08:17
+[DoS attack: TCP SYN Flood] from source 138.75.111.37,port 64378 Thursday, Mar 06, 2025 23:08:16
+[DoS attack: TCP SYN Flood] from source 138.75.111.37,port 64378 Thursday, Mar 06, 2025 23:08:15
+[DoS attack: TCP SYN Flood] from source 138.75.111.37,port 64378 Thursday, Mar 06, 2025 23:08:14
+[DoS attack: TCP SYN Flood] from source 138.75.111.37,port 64378 Thursday, Mar 06, 2025 23:08:13
+[DoS attack: TCP SYN Flood] from source 138.75.111.37,port 64378 Thursday, Mar 06, 2025 23:08:11
+[DoS attack: TCP SYN Flood] from source 138.75.111.37,port 64378 Thursday, Mar 06, 2025 23:08:10
+[DoS attack: TCP SYN Flood] from source 138.75.111.37,port 64378 Thursday, Mar 06, 2025 23:08:07
+[DoS attack: TCP SYN Flood] from source 138.75.111.37,port 64378 Thursday, Mar 06, 2025 23:08:06
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 23:01:06
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 23:00:51
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 22:47:07
+[DHCP IP: (192.168.1.2)] to MAC address 0C:AE:7D:C0:D7:C3, Thursday, Mar 06, 2025 22:44:03
+[DoS attack: snmpQueryDrop] from source 20.65.195.32,port 39386 Thursday, Mar 06, 2025 22:44:01
+[DoS attack: snmpQueryDrop] from source 141.98.11.88,port 29500 Thursday, Mar 06, 2025 22:28:43
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 22:24:24
+[DHCP IP: (192.168.1.17)] to MAC address 4C:53:FD:32:1A:F1, Thursday, Mar 06, 2025 22:19:54
+[DoS attack: snmpQueryDrop] from source 47.251.80.254,port 53893 Thursday, Mar 06, 2025 22:02:33
+[DoS attack: snmpQueryDrop] from source 47.251.80.254,port 50466 Thursday, Mar 06, 2025 22:02:31
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 22:00:52
+[DHCP IP: (192.168.1.15)] to MAC address F0:F0:A4:7B:F6:F9, Thursday, Mar 06, 2025 21:59:43
+[DoS attack: snmpQueryDrop] from source 147.203.255.20,port 55423 Thursday, Mar 06, 2025 21:53:00
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 21:51:35
+[DHCP IP: (192.168.1.16)] to MAC address F4:03:2A:5C:EC:19, Thursday, Mar 06, 2025 21:46:17
+[DHCP IP: (192.168.1.12)] to MAC address 08:6A:E5:19:70:5A, Thursday, Mar 06, 2025 21:46:06
+[DoS attack: RST Scan] from source 13.227.37.89,port 443 Thursday, Mar 06, 2025 21:19:23
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 21:17:27
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 21:16:31
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 21:15:44
+[DHCP IP: (192.168.1.8)] to MAC address B4:B0:24:63:70:16, Thursday, Mar 06, 2025 21:14:52
+[DHCP IP: (192.168.1.10)] to MAC address B4:B0:24:4B:67:A2, Thursday, Mar 06, 2025 21:14:51
+[DHCP IP: (192.168.1.7)] to MAC address 54:AF:97:A0:F0:62, Thursday, Mar 06, 2025 21:14:48
+[DHCP IP: (192.168.1.11)] to MAC address 28:87:BA:2F:4A:55, Thursday, Mar 06, 2025 21:14:48
+[DHCP IP: (192.168.1.13)] to MAC address 54:AF:97:08:D8:2E, Thursday, Mar 06, 2025 21:14:33
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 21:12:14
+[DoS attack: snmpQueryDrop] from source 193.163.125.144,port 23739 Thursday, Mar 06, 2025 21:11:58
+[DoS attack: snmpQueryDrop] from source 193.163.125.128,port 24483 Thursday, Mar 06, 2025 21:11:55
+[DoS attack: RST Scan] from source 13.227.37.89,port 443 Thursday, Mar 06, 2025 21:09:21
+[DoS attack: RST Scan] from source 35.212.56.18,port 443 Thursday, Mar 06, 2025 21:04:50
+[DHCP IP: (192.168.1.18)] to MAC address F0:35:75:3E:05:21, Thursday, Mar 06, 2025 21:04:49
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 21:04:45
+[DHCP IP: (192.168.1.44)] to MAC address 24:E8:53:7A:C0:BA, Thursday, Mar 06, 2025 21:04:11
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 21:00:51
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 20:51:04
+[DoS attack: Fraggle Attack] from source 66.191.94.1,port 67 Thursday, Mar 06, 2025 20:50:55
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 20:48:07
+[DoS attack: RST Scan] from source 35.212.56.18,port 443 Thursday, Mar 06, 2025 20:46:02
+[DoS attack: RST Scan] from source 13.227.37.23,port 443 Thursday, Mar 06, 2025 20:42:43
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 20:38:12
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 20:36:13
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 20:32:07
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 20:30:40
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 20:30:27
+[DHCP IP: (192.168.1.44)] to MAC address 24:E8:53:7A:C0:BA, Thursday, Mar 06, 2025 20:28:36
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 20:08:11
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 20:02:30
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 19:52:22
+[Time synchronized with NTP server] Thursday, Mar 06, 2025 19:51:01
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 19:44:48
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 19:40:49
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 19:40:42
+[DHCP IP: (192.168.1.22)] to MAC address 9C:76:13:BE:CE:3D, Thursday, Mar 06, 2025 19:39:44
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 19:38:55
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 19:32:04
+[DHCP IP: (192.168.1.6)] to MAC address BC:03:58:CE:5C:75, Thursday, Mar 06, 2025 19:28:01
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 19:24:23
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 19:21:26
+[DoS attack: ACK Scan] from source 52.123.128.14,port 443 Thursday, Mar 06, 2025 19:18:44
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 19:12:08
+[DHCP IP: (192.168.1.31)] to MAC address 7A:45:F1:97:35:F9, Thursday, Mar 06, 2025 19:10:04
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 19:00:51
+[DHCP IP: (192.168.1.32)] to MAC address 08:7C:39:B8:A4:7C, Thursday, Mar 06, 2025 18:56:51
+[DHCP IP: (192.168.1.19)] to MAC address 46:7A:8F:0D:88:BF, Thursday, Mar 06, 2025 18:52:57
+[DoS attack: RST Scan] from source 44.215.135.236,port 443 Thursday, Mar 06, 2025 18:51:00
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Thursday, Mar 06, 2025 18:39:16
+[DHCP IP: (192.168.1.32)] to MAC address 08:7C:39:B8:A4:7C, Thursday, Mar 06, 2025 18:38:35
+[DoS attack: snmpQueryDrop] from source 139.162.24.245,port 52940 Thursday, Mar 06, 2025 18:37:02
+[DHCP IP: (192.168.1.26)] to MAC address DC:97:58:95:BD:95, Thursday, Mar 06, 2025 18:32:29
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 18:31:27
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 18:16:51
+[DHCP IP: (192.168.1.33)] to MAC address AE:B4:15:76:36:44, Thursday, Mar 06, 2025 18:14:56
+[DHCP IP: (192.168.1.24)] to MAC address 3A:D6:F9:C8:82:92, Thursday, Mar 06, 2025 18:14:40
+[DHCP IP: (192.168.1.35)] to MAC address DE:9D:9E:E3:EF:7A, Thursday, Mar 06, 2025 18:13:05
+[DHCP IP: (192.168.1.58)] to MAC address D2:4F:EB:F9:BA:06, Thursday, Mar 06, 2025 18:12:37
+[DHCP IP: (192.168.1.9)] to MAC address 2C:AB:33:16:07:61, Thursday, Mar 06, 2025 18:10:43
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 18:00:52
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 17:30:36
+[DoS attack: TCP SYN Flood] from source 176.37.172.228,port 7160 Thursday, Mar 06, 2025 17:25:20
+[DHCP IP: (192.168.1.20)] to MAC address C4:98:5C:CF:8A:61, Thursday, Mar 06, 2025 17:22:08
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 17:00:52
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 16:58:57
+[DoS attack: snmpQueryDrop] from source 154.213.200.14,port 40119 Thursday, Mar 06, 2025 16:56:18
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 16:47:47
+[DHCP IP: (192.168.1.27)] to MAC address 98:22:6E:D5:7D:DF, Thursday, Mar 06, 2025 16:43:41
+[DoS attack: snmpQueryDrop] from source 205.210.31.27,port 53761 Thursday, Mar 06, 2025 16:43:05
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 16:36:42
+[DoS attack: TCP SYN Flood] from source 176.37.172.228,port 7160 Thursday, Mar 06, 2025 16:35:34
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 16:24:24
+[DHCP IP: (192.168.1.5)] to MAC address B8:06:0D:A8:F4:A7, Thursday, Mar 06, 2025 16:10:52
+[DoS attack: RST Scan] from source 35.212.56.18,port 443 Thursday, Mar 06, 2025 16:05:37
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 16:00:59
+[DoS attack: Fraggle Attack] from source 66.191.94.1,port 67 Thursday, Mar 06, 2025 15:52:52
+[DoS attack: ACK Scan] from source 13.58.158.2,port 443 Thursday, Mar 06, 2025 15:50:31
+[DHCP IP: (192.168.1.26)] to MAC address DC:97:58:95:BD:95, Thursday, Mar 06, 2025 15:44:23
+[DHCP IP: (192.168.1.58)] to MAC address D2:4F:EB:F9:BA:06, Thursday, Mar 06, 2025 15:43:01
+[DHCP IP: (192.168.1.37)] to MAC address C8:7F:54:5C:68:9C, Thursday, Mar 06, 2025 15:35:31
+[DHCP IP: (192.168.1.28)] to MAC address 50:5A:65:AD:47:BB, Thursday, Mar 06, 2025 15:35:29
+[DHCP IP: (192.168.1.46)] to MAC address 7E:62:3C:13:70:F1, Thursday, Mar 06, 2025 15:31:02
+[DoS attack: Fraggle Attack] from source 97.95.56.1,port 67 Thursday, Mar 06, 2025 15:15:37
+[DoS attack: snmpQueryDrop] from source 141.98.11.88,port 32105 Thursday, Mar 06, 2025 15:06:47
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 15:00:53
+[DHCP IP: (192.168.1.59)] to MAC address 9A:73:34:AB:48:F9, Thursday, Mar 06, 2025 14:56:05
+[DoS attack: snmpQueryDrop] from source 147.203.255.20,port 45025 Thursday, Mar 06, 2025 14:44:14
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 14:38:56
+[DoS attack: ACK Scan] from source 52.123.129.14,port 443 Thursday, Mar 06, 2025 14:33:43
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 14:30:46
+[DHCP IP: (192.168.1.3)] to MAC address F4:B8:98:21:91:6A, Thursday, Mar 06, 2025 14:24:06
+[DHCP IP: (192.168.1.4)] to MAC address 6C:79:B8:20:68:64, Thursday, Mar 06, 2025 14:24:03
+[DoS attack: Fraggle Attack] from source 66.191.94.1,port 67 Thursday, Mar 06, 2025 14:14:10
+[DHCP IP: (192.168.1.36)] to MAC address A8:1D:16:7E:E0:91, Thursday, Mar 06, 2025 14:05:19
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 14:00:52
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 13:53:57
+[DHCP IP: (192.168.1.36)] to MAC address A8:1D:16:7E:E0:91, Thursday, Mar 06, 2025 13:48:39
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 13:30:47
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 13:24:24
+[DHCP IP: (192.168.1.14)] to MAC address DC:03:98:86:64:16, Thursday, Mar 06, 2025 13:19:49
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 13:00:51
+[DoS attack: Fraggle Attack] from source 30.56.186.1,port 67 Thursday, Mar 06, 2025 12:37:27
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 12:33:53
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 12:32:20
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 12:31:48
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 12:30:29
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 12:29:50
+[DoS attack: RST Scan] from source 35.212.56.18,port 443 Thursday, Mar 06, 2025 12:26:19
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 12:21:02
+[DoS attack: RST Scan] from source 35.212.56.18,port 443 Thursday, Mar 06, 2025 12:15:29
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 12:00:53
+[DoS attack: Fraggle Attack] from source 66.191.94.1,port 67 Thursday, Mar 06, 2025 11:58:31
+[DoS attack: snmpQueryDrop] from source 185.94.111.1,port 37032 Thursday, Mar 06, 2025 11:57:31
+[DoS attack: Fraggle Attack] from source 97.88.130.1,port 67 Thursday, Mar 06, 2025 11:47:14
+[DHCP IP: (192.168.1.36)] to MAC address A8:1D:16:7E:E0:91, Thursday, Mar 06, 2025 11:46:53
+[DoS attack: snmpQueryDrop] from source 172.202.118.22,port 33576 Thursday, Mar 06, 2025 11:31:57
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 11:30:43
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 11:22:23
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 11:16:02
+[DoS attack: RST Scan] from source 35.212.56.18,port 443 Thursday, Mar 06, 2025 11:13:59
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 11:00:53
+[DoS attack: snmpQueryDrop] from source 147.185.132.243,port 51547 Thursday, Mar 06, 2025 10:49:59
+[DHCP IP: (192.168.1.2)] to MAC address 0C:AE:7D:C0:D7:C3, Thursday, Mar 06, 2025 10:44:03
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 10:37:54
+[DoS attack: Fraggle Attack] from source 66.191.94.1,port 67 Thursday, Mar 06, 2025 10:37:02
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 10:30:40
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 10:24:24
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 10:00:52
+[DHCP IP: (192.168.1.15)] to MAC address F0:F0:A4:7B:F6:F9, Thursday, Mar 06, 2025 09:59:42
+[DHCP IP: (192.168.1.17)] to MAC address 4C:53:FD:32:1A:F1, Thursday, Mar 06, 2025 09:48:21
+[DHCP IP: (192.168.1.16)] to MAC address F4:03:2A:5C:EC:19, Thursday, Mar 06, 2025 09:46:16
+[DHCP IP: (192.168.1.12)] to MAC address 08:6A:E5:19:70:5A, Thursday, Mar 06, 2025 09:46:05
+[DHCP IP: (192.168.1.58)] to MAC address D2:4F:EB:F9:BA:06, Thursday, Mar 06, 2025 09:44:17
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 09:36:51
+[DoS attack: ACK Scan] from source 52.123.128.14,port 443 Thursday, Mar 06, 2025 09:33:43
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 09:30:51
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 09:25:36
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 09:22:08
+[DHCP IP: (192.168.1.8)] to MAC address B4:B0:24:63:70:16, Thursday, Mar 06, 2025 09:14:52
+[DHCP IP: (192.168.1.10)] to MAC address B4:B0:24:4B:67:A2, Thursday, Mar 06, 2025 09:14:51
+[DHCP IP: (192.168.1.7)] to MAC address 54:AF:97:A0:F0:62, Thursday, Mar 06, 2025 09:14:48
+[DHCP IP: (192.168.1.11)] to MAC address 28:87:BA:2F:4A:55, Thursday, Mar 06, 2025 09:14:48
+[DHCP IP: (192.168.1.13)] to MAC address 54:AF:97:08:D8:2E, Thursday, Mar 06, 2025 09:14:33
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 09:01:07
+[DHCP IP: (192.168.1.36)] to MAC address A8:1D:16:7E:E0:91, Thursday, Mar 06, 2025 08:40:03
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 08:34:44
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 08:30:59
+[DoS attack: RST Scan] from source 45.57.120.83,port 443 Thursday, Mar 06, 2025 08:25:45
+[DoS attack: Fraggle Attack] from source 30.51.0.1,port 67 Thursday, Mar 06, 2025 08:18:08
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 08:00:54
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 07:55:07
+[Time synchronized with NTP server] Thursday, Mar 06, 2025 07:51:02
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 07:51:02
+[DoS attack: snmpQueryDrop] from source 147.203.255.20,port 57363 Thursday, Mar 06, 2025 07:45:39
+[DHCP IP: (192.168.1.22)] to MAC address 9C:76:13:BE:CE:3D, Thursday, Mar 06, 2025 07:39:44
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Thursday, Mar 06, 2025 07:32:02
+[DoS attack: snmpQueryDrop] from source 141.98.11.88,port 34516 Thursday, Mar 06, 2025 07:31:18
+[DHCP IP: (192.168.1.18)] to MAC address F0:35:75:3E:05:21, Thursday, Mar 06, 2025 07:30:56
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 07:30:41
+[DHCP IP: (192.168.1.6)] to MAC address BC:03:58:CE:5C:75, Thursday, Mar 06, 2025 07:28:01
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 07:25:31
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 07:24:25
+[DoS attack: RST Scan] from source 198.38.108.218,port 443 Thursday, Mar 06, 2025 07:15:05
+[DHCP IP: (192.168.1.31)] to MAC address 7A:45:F1:97:35:F9, Thursday, Mar 06, 2025 07:08:50
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Thursday, Mar 06, 2025 07:06:51
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 07:01:08
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Thursday, Mar 06, 2025 06:55:22
+[DHCP IP: (192.168.1.19)] to MAC address 46:7A:8F:0D:88:BF, Thursday, Mar 06, 2025 06:52:08
+[DoS attack: Fraggle Attack] from source 30.51.64.1,port 67 Thursday, Mar 06, 2025 06:31:27
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 06:30:34
+[DHCP IP: (192.168.1.23)] to MAC address F8:A2:D6:1B:78:54, Thursday, Mar 06, 2025 06:30:23
+[DHCP IP: (192.168.1.9)] to MAC address 2C:AB:33:16:07:61, Thursday, Mar 06, 2025 06:10:43
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 06:04:24
+[DHCP IP: (192.168.1.35)] to MAC address DE:9D:9E:E3:EF:7A, Thursday, Mar 06, 2025 06:03:00
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 06:00:54
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 05:54:11
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Thursday, Mar 06, 2025 05:46:32
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 05:41:00
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 05:39:10
+[DoS attack: RST Scan] from source 35.212.56.18,port 443 Thursday, Mar 06, 2025 05:33:34
+[DoS attack: RST Scan] from source 13.227.37.31,port 443 Thursday, Mar 06, 2025 05:33:34
+[DHCP IP: (192.168.1.21)] to MAC address F8:28:19:3D:C0:7A, Thursday, Mar 06, 2025 05:33:34
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Thursday, Mar 06, 2025 05:32:35
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 05:32:27
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 05:31:04
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 05:29:04
+[DHCP IP: (192.168.1.20)] to MAC address C4:98:5C:CF:8A:61, Thursday, Mar 06, 2025 05:22:09
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 05:17:30
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Thursday, Mar 06, 2025 05:17:03
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Thursday, Mar 06, 2025 05:08:34
+[DoS attack: snmpQueryDrop] from source 154.213.200.14,port 28390 Thursday, Mar 06, 2025 05:05:10
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 05:01:01
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 04:54:23
+[DHCP IP: (192.168.1.27)] to MAC address 98:22:6E:D5:7D:DF, Thursday, Mar 06, 2025 04:43:41
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 04:39:08
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 04:33:31
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 04:30:47
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 04:28:37
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 04:24:25
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 04:18:50
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 04:12:56
+[DHCP IP: (192.168.1.5)] to MAC address B8:06:0D:A8:F4:A7, Thursday, Mar 06, 2025 04:10:52
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 04:08:08
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Thursday, Mar 06, 2025 04:02:17
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 04:00:52
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 03:52:16
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 03:41:01
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 03:30:57
+[DHCP IP: (192.168.1.33)] to MAC address AE:B4:15:76:36:44, Thursday, Mar 06, 2025 03:29:03
+[DHCP IP: (192.168.1.24)] to MAC address 3A:D6:F9:C8:82:92, Thursday, Mar 06, 2025 03:24:59
+[DoS attack: RST Scan] from source 17.248.203.64,port 443 Thursday, Mar 06, 2025 03:19:48
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 03:18:31
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 03:09:06
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 03:00:54
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 02:33:31
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 02:33:21
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 02:30:31
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 02:25:37
+[DHCP IP: (192.168.1.3)] to MAC address F4:B8:98:21:91:6A, Thursday, Mar 06, 2025 02:24:06
+[DHCP IP: (192.168.1.4)] to MAC address 6C:79:B8:20:68:64, Thursday, Mar 06, 2025 02:24:03
+[DoS attack: snmpQueryDrop] from source 65.49.1.13,port 51850 Thursday, Mar 06, 2025 02:06:37
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 02:00:52
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 01:24:25
+[DHCP IP: (192.168.1.14)] to MAC address DC:03:98:86:64:16, Thursday, Mar 06, 2025 01:19:49
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 01:01:07
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 00:59:17
+[DoS attack: TCP SYN Flood] from source 117.88.214.153,port 9153 Thursday, Mar 06, 2025 00:57:02
+[DoS attack: TCP SYN Flood] from source 117.88.214.153,port 9153 Thursday, Mar 06, 2025 00:57:01
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 00:46:38
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 00:30:40
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Thursday, Mar 06, 2025 00:29:46
+[DoS attack: ACK Scan] from source 52.123.128.14,port 443 Thursday, Mar 06, 2025 00:18:44
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Thursday, Mar 06, 2025 00:00:52
+[DoS attack: RST Scan] from source 35.212.56.18,port 443 Wednesday, Mar 05, 2025 23:59:22
+[DoS attack: Fraggle Attack] from source 97.88.130.1,port 67 Wednesday, Mar 05, 2025 23:47:13
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Wednesday, Mar 05, 2025 23:30:38
+[DoS attack: snmpQueryDrop] from source 141.98.11.88,port 4485 Wednesday, Mar 05, 2025 23:28:05
+[DoS attack: TCP SYN Flood] from source 72.50.206.193,port 3260 Wednesday, Mar 05, 2025 23:10:07
+[DoS attack: TCP SYN Flood] from source 72.50.206.193,port 3260 Wednesday, Mar 05, 2025 23:10:06
+[DoS attack: TCP SYN Flood] from source 72.50.206.193,port 3260 Wednesday, Mar 05, 2025 23:10:05
+[DHCP IP: (192.168.1.34)] to MAC address E0:F6:B5:96:77:6F, Wednesday, Mar 05, 2025 23:00:52
+[DoS attack: Fraggle Attack] from source 97.88.136.1,port 67 Wednesday, Mar 05, 2025 22:48:31
+[DHCP IP: (192.168.1.2)] to MAC address 0C:AE:7D:C0:D7:C3, Wednesday, Mar 05, 2025 22:44:03
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:44
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:43
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:42
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:41
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:40
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:39
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:38
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:37
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:36
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:35
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:34
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:33
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:32
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:31
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:30
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:29
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:28
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:27
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:26
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:25
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:24
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:23
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:22
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:21
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:20
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:19
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:18
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:17
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:16
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:15
+[DoS attack: RST Scan] from source 45.142.193.185,port 45177 Wednesday, Mar 05, 2025 22:25:1
