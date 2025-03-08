@@ -1,6 +1,9 @@
+# This script will need to be modified since blacklist checker uses basic authentication and uses the username to pass the api key
+#
+
 import requests
 
-API_KEY = 'key_ckcRSs82Sa9MaDRCQrmhyUQlB'
+API_KEY = 'place_ur_own_API_Key_Here'
 
 # List of IP addresses to check
 ip_addresses = [
@@ -17,7 +20,7 @@ ip_addresses = [
 ]
 
 def check_blacklist(ip):
-    url = f'https://api.blacklistchecker/{ip}'
+    url = f'https://api.blacklistchecker/check/{ip}'
     response = requests.get(url, auth=(API_KEY, ''))
     if response.status_code == 200:
         return response.json()
