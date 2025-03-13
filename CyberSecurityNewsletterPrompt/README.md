@@ -26,7 +26,7 @@ The solution for most was to make a second prompt query asking for the result to
 
 Some General Observations with each AI agent/"ChatBot":
 
-Claude:
+Claude: Would not search for recent articles on the internet.
 Copilot:
 Gemini:
 CHatGPT:
