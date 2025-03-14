@@ -26,17 +26,17 @@ The solution for most was to make a second prompt query asking for the result to
 
 Some General Observations with each AI agent/"ChatBot":
 
-Claude: Would not search for recent articles on the internet.
+Claude(Claude 3.7 Sonnet): Would not search for recent articles on the internet.
 
-Copilot:
+Copilot(GPT-4?MS Prometheus): I had mixed results in trying to retrieve recent articles. Even when I gave it a specific URL that only contained recent articles, it would still pull in some old articles 6mo, or even years old. 
 
 Gemini: gave similar results to ChatGPT and seemed to have a more pleasing format to the article/newsletter. I had to feed it the very specific URL where only recent articles were for this to work properly or as intended.
 
-CHatGPT: gave best results and risk rating based on the example I gave it and it was actually able to search the net to retrieve the articles. I had to feed it the very specific URL where only recent articles were for this to work properly or as intended.
+CHatGPT (GPT4-o): gave best results and risk rating based on the example I gave it and it was actually able to search the net to retrieve the articles. I had to feed it the very specific URL where only recent articles were for this to work properly or as intended.
 
-QWEN: Not Tested Yet
+QWEN (2.5-Max Model): QWEN had same exact result and response as DeepSeek. Cannot query recent internet.It gave the same compile date as DeepSeek, Oct 2023.
 
-Deepseek: could not search the internet for current news as its model was compiled with data up to Oc 2023. DeepSeek R-1 is the model.
+Deepseek (DeepSeek R-1): could not search the internet for current news as its model was compiled with data up to Oc 2023. 
 I then asked for it to take a current article I found and put it in the format template it said it could generate. here it did a great job and assigned a risk rating to it. When I asked it to explain why it gave a good job explaining what it assigned it a high rating and why it did not assign it a very high. At this point, I had switched the "Deep Think R-1" option in the chat and what it displays is the reasoning of the model as it processes your request and how long it takes to process. It was interesting to see that it figured out that the cve I asked it to provide details on was "in the future" according to its thought process (And compile date as being "the present" and concluded the article I gave it was fictional. :)
 
 This was the initial response from DeepSeek:
