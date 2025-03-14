@@ -27,15 +27,20 @@ The solution for most was to make a second prompt query asking for the result to
 Some General Observations with each AI agent/"ChatBot":
 
 Claude: Would not search for recent articles on the internet.
+
 Copilot:
-Gemini:
-CHatGPT:
+
+Gemini: gave similar results to ChatGPT and seemed to have a more pleasing format to the article/newsletter. I had to feed it the very specific URL where only recent articles were for this to work properly or as intended.
+
+CHatGPT: gave best results and risk rating based on the example I gave it and it was actually able to search the net to retrieve the articles. I had to feed it the very specific URL where only recent articles were for this to work properly or as intended.
+
 QWEN: Not Tested Yet
-Deepseek: Not Tested Yet
 
+Deepseek: could not search the internet for current news as its model was compiled with data up to Oc 2023. DeepSeek R-1 is the model.
+I then asked for it to take a current article I found and put it in the format template it said it could generate. here it did a great job and assigned a risk rating to it. When I asked it to explain why it gave a good job explaining what it assigned it a high rating and why it did not assign it a very high. At this point, I had switched the "Deep Think R-1" option in the chat and what it displays is the reasoning of the model as it processes your request and how long it takes to process. It was interesting to see that it figured out that the cve I asked it to provide details on was "in the future" according to its thought process (And compile date as being "the present" and concluded the article I gave it was fictional. :)
 
+This was the initial response from DeepSeek:
+Unfortunately, I cannot access or summarize articles from the specified URL (https://www.bleepingcomputer.com/news/security/) or any other external websites, as my training data only goes up to October 2023 and I do not have real-time browsing capabilities. Additionally, I cannot retrieve or summarize articles published in the future (e.g., between March 6, 2025, and March 11, 2025).
 
-
-
-
-.
+However, I can help you draft a template or provide guidance on how to structure your daily cybersecurity newsletter based on the example you provided. If you have specific details or content you'd like to include, feel free to share, and I can assist in crafting summaries or insights based on that information. Let me know how you'd like to proceed!
+You can view the whole interaction/prompt with DeepSeek in the doc called: DailyBytes DeepSeek Prompt interaction.docx
