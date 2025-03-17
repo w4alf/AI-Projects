@@ -36,7 +36,7 @@ CHatGPT (GPT4-o): gave best results and risk rating based on the example I gave 
 
 QWEN (2.5-Max Model): QWEN had same exact result and response as DeepSeek. Cannot query recent internet.It gave the same compile date as DeepSeek, Oct 2023.
 
-Meta AI (Llama 3): Not Tested Yet
+Meta AI (Llama 3): Mixed results for the news articles it selected. Most were older than the date range prompted. e.g. Jan/Feb. and some articles did not look to be from the URL provided in the prompt. I could not verify the exact URL it pulled from as Meta AI didn't provide the source URL like I asked as the link of the article title. It only displayed text "Link Unavailable".
 
 Deepseek (DeepSeek R-1): could not search the internet for current news as its model was compiled with data up to Oct 2023. 
 I then asked for it to take a current article I found and put it in the format template it said it could generate. here it did a great job and assigned a risk rating to it. When I asked it to explain why it gave a good job explaining what it assigned it a high rating and why it did not assign it a very high. At this point, I had switched the "Deep Think R-1" option in the chat and what it displays is the reasoning of the model as it processes your request and how long it takes to process. It was interesting to see that it figured out that the cve I asked it to provide details on was "in the future" according to its thought process (And compile date as being "the present" and concluded the article I gave it was fictional. :)
